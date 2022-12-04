@@ -1,9 +1,10 @@
 SvyatmodalWindow – плагин для вывода модального окна при наведении на объект в ячейке JQuary DataTables
 
 Путь для вставки в код:
-+<script src="./svyatModalWindow.js"></script>+
+<script src="./svyatModalWindow.js"></script>
 
-+<link rel="stylesheet" href="./svyatModalWindow.css">+
+
+"<link rel="stylesheet" href="./svyatModalWindow.css">"
 
 
 Плагин svyatmodalWindow используется для вывода информации в модальном окне при клике или наведении курсора мыши на элементы в ячейках таблицы Jquary DataTables.
