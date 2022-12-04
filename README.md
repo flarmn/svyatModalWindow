@@ -2,6 +2,7 @@ SvyatmodalWindow – плагин для вывода модального ок�
 
 Путь для вставки в код:
 <script src="./svyatModalWindow.js"></script>
+
 <link rel="stylesheet" href="./svyatModalWindow.css">
 
 
